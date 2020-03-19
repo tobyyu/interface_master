@@ -1,0 +1,6 @@
+2020-03-19 17:37:09,767 - LogTest - page.py - Createlog - INFO - 接口断言
+2020-03-19 19:35:07,640 - LogTest - page.py - Createlog - INFO - 接口断言
+2020-03-19 20:19:04,092 - LogTest - page.py - Createlog - INFO - 接口断言
+2020-03-19 23:22:20,920 - LogTest - page.py - Createlog - INFO - 接口断言
+2020-03-19 23:22:47,793 - LogTest - page.py - Createlog - INFO - 接口断言
+2020-03-19 23:45:01,987 - LogTest - page.py - Createlog - INFO - 接口断言
